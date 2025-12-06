@@ -17,7 +17,7 @@ three years very close! I've been surprised and thrilled at how well it performs
 To run it, simply open the file called "The NFL Project.py", and it has nice friendly
 intro messages welcoming the user. All will be self explanatory from there.
 
-A youtube tutorial and walkthrough on this project is found here: https://youtu.be/8k1W92jm3vU
+A youtube tutorial and walkthrough on this project is found here: https://youtu.be/4JfAEEIopso
 
 And the complete final write up is found in this same GitHub repository titled
 "The NFL Project - Final Paper.pdf"
